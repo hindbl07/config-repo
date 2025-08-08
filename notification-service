@@ -21,8 +21,8 @@ spring.kafka.consumer.properties.spring.json.type.mapping=orderConfirmation:org.
 # Mail
 spring.mail.host=localhost
 spring.mail.port=1025
-spring.mail.username=alibou
-spring.mail.password=alibou
+spring.mail.username=hindbl
+spring.mail.password=hindbl
 spring.mail.properties.mail.smtp.trust=*
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
